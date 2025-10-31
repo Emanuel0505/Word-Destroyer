@@ -1,5 +1,7 @@
 # WORD DESTROYER
 
+### Link para Jogar: https://emanuel0505.github.io/Word-Destroyer/
+
 ## RESUMO
 Word Destroyer é um jogo educativo que incentiva a criança ler e digitar as palavras conforme as habilidades selecionadas. No jogo o mundo está sendo invadido por alienígenas, onde o ataque é feito por blocos de palavras que descem até a cidade, tendo assim o jogador a missão de destruir esses blocos antes que ele caia sobre a cidade. Para fazer isso, devesse digitar as palavras que estão nesses blocos. Conforme for acertando as palavras o nível de dificuldade irá aumentar. O jogador terá direito a 100 de vida, onde cada erro irá tirar 5 de vida, caso perca todas as vidas, poderá reiniciar o jogo do zero.
 ## DESCRIÇÃO
